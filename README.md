@@ -1,5 +1,7 @@
 # eslint-plugin-lowercase-naming
 
+[![Build Status](https://travis-ci.com/farzonl/eslint-lowerCase-plugin.svg?branch=master)](https://travis-ci.com/farzonl/eslint-lowerCase-plugin)
+
 enforces properties start with a lowercase letter
 
 ## Installation
